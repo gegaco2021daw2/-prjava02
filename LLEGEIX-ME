@@ -1,0 +1,11 @@
+1a)-git brach "el nombre que quieras poner"
+1.b)git checkout "el nombre"
+
+5.)git checkout main, i per accedir al historial git log branca00, la diferencia esque, en el darrer commit, no se ha actualitzat
+6.)No, perque estem en una branca diferent, de on l'hem creat.
+7.)git checkout branca00, Si que es veu, perque estem a la branca on em fet aquesta modificació.
+10.b)git merge branca00
+12.) git push -u origin main
+12.c)Perque l'hem fet un push i se actualitzat.
+14.a)git push -u origin branca01
+14.c) Hi ha un commit de distancia.
